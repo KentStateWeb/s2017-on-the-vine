@@ -62,6 +62,8 @@ img {
         margin-left: auto;
         margin-right: auto
       }
+img main {padding-left: 15px;
+padding-right: 15px}
 
 h2 {
   font-family: 'Special Elite';
@@ -94,6 +96,7 @@ font-size:16px;}
 body {
   background-color: rgba(0,0,0,.05);
   padding-left: 10px;
+  padding-right: 10px;
 }
 
 table {
@@ -129,4 +132,9 @@ footer {
 		display: flex;
 		justify-content: space-around;
 	}
+}
+
+blockquote {
+  font-family: 'Special Elite';
+  color:black;
 }
