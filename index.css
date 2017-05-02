@@ -1,10 +1,38 @@
 body {
   background-color: rgba(0, 0, 0, .05);
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Special Elite';
+  color: black;
+  font-size: 40px;
+  max-width: inherit;
 }
 
 h2 {
   font-family: 'Special Elite';
+  color:#722f37;
+  text-align: center;
 }
 
-a {color: #655b4f;
+a {color: black;
+  font-family: 'Special Elite';
+  text-decoration: none;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a:hover {
+	border-bottom: 5px solid #oo6d92;
+	color: #722f37;
+	padding-bottom: .25em;
+}
+
+li {
+  padding: 5px;
+}
+
+ul {
+  list-style-type: none;
 }
