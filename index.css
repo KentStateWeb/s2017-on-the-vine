@@ -36,3 +36,11 @@ li {
 ul {
   list-style-type: none;
 }
+
+footer {
+  font:'Special Elite';
+  background-color: white;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 25px;
+}
