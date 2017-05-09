@@ -60,7 +60,8 @@ img {
         height: auto;
         display: block;
         margin-left: auto;
-        margin-right: auto
+        margin-right: auto;
+        padding: 15px;
       }
 img main {padding-left: 15px;
 padding-right: 15px}
@@ -69,6 +70,9 @@ h2 {
   font-family: 'Special Elite';
 }
 
+h2 header {
+  text-align: center;
+}
 main h3 {
   font-family: 'Special Elite';
   color: black;
