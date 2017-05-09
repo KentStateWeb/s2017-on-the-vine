@@ -131,8 +131,8 @@ footer {
   font:'Special Elite';
   background-color: white;
   text-align: center;
-  font-family: arial;
   font-size: 13px;
+  border-radius: 25px;
 }
 
 @media screen and (min-width: 600px) {
